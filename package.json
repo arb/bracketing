@@ -1,6 +1,6 @@
 {
   "name": "bracketing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Function to efficiently traverse large strings or arrays and run a predicate on adjacent values.",
   "main": "index.js",
   "browser": "dist/bracketer.js",
@@ -12,6 +12,10 @@
   },
   "author": "Continuation Labs <contact@continuation.io> (http://continuation.io/)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/continuationlabs/bracketing.git"
+  },
   "devDependencies": {
     "babel-core": "6.26.x",
     "babel-plugin-external-helpers": "6.22.x",
