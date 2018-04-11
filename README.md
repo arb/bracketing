@@ -3,7 +3,7 @@
 `bracketing` is a small utility function to effeciantly walk and compare consecutive elements in an array or string and extract the longest sub array that fulfills this predicate. It is essentially two managed array pointers to traverse an array with the bare minimum number of comparisons. It will return the longest sequence that satisfies the supplied predicate function. 
 
 [![Current Version](https://img.shields.io/npm/v/bracketing.svg?style=flat-square)](https://www.npmjs.org/package/bracketing)
-[![Build Status](https://travis-ci.org/continuationlabs/bracketing.svg?branch=master)](https://travis-ci.org/continuationlabs/bracketing)
+[![Build Status](https://travis-ci.org/arb/bracketing.svg?branch=master)](https://travis-ci.org/arb/bracketing)
 
 ## Useage
 

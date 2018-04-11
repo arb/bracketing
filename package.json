@@ -10,11 +10,11 @@
     "build": "rollup --config rollup.config.js",
     "prepublishOnly": "npm run build"
   },
-  "author": "Continuation Labs <contact@continuation.io> (http://continuation.io/)",
+  "author": "Adam Bretz <arbretz@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/continuationlabs/bracketing.git"
+    "url": "git+https://github.com/arb/bracketing.git"
   },
   "devDependencies": {
     "babel-core": "6.26.x",
