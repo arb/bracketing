@@ -1,6 +1,6 @@
 {
   "name": "bracketing",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Function to efficiently traverse large strings or arrays and run a predicate on adjacent values.",
   "main": "index.js",
   "browser": "dist/bracketer.js",
